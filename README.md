@@ -1,5 +1,6 @@
-Prazer, Leonardo Peres!
+Hi, I am Leonardo Peres! 
 
-* 🔭 Estudante de Engenharia da Computação
-* 💼 <b><i>Desenvolvedor</i></b>
-* 🕵️‍♀️ Tecnologias em estudo: Javascript, HTM5, CSS3, Firebase, Typescript, React, Nodejs, Git
+🔭 Computer Engineer <br>
+💼 <b><i>Developer</i></b> <br>
+🕵️‍♀️ Tech Stack: Javascript, Typescript, Nodejs, Firebase, React, Git
+📚 Studying: C#
