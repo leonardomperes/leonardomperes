@@ -69,4 +69,5 @@ Explorando criação de apps desktop com Electron.
 
 ## 🎯 O que procuro
 Busco oportunidades como **Desenvolvedor Full Stack**, onde eu possa contribuir com os meus conhecimentos — sempre com foco no cliente. Busco qualidade de código e evolução constante em diversas tecnologias.
+
 ---
