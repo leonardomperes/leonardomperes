@@ -72,5 +72,5 @@ Busco oportunidades como **Desenvolvedor Full Stack**, onde eu possa contribuir 
 
 ---
 
-[![Leonardo's github streak](https://streak-stats.demolab.com/?user=leonardomperes&theme=dark)](https://git.io/streak-stats)
+![Leonardo's github streak](https://streak-stats.demolab.com/?user=leonardomperes&theme=dark)
 
