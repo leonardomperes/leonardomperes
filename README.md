@@ -7,7 +7,9 @@ Atuo principalmente com **TypeScript**, **Node.js**, **React**, **React Native**
 
 ---
 ## 👨‍🎓 Curiosidades
-Atuei durante 8 anos em manutenção predial tendo conhecimentos em elétrica e formação técnica em **Mecatrônica**. Fiz transição de carreira para área da tecnologia na qual sempre quis me desenvolver. Fui bolsista pela FAPESP atuando em uma startup de *[Monitoramento da Adesão ao Tratamento através de Dispositivo IoT](https://bv.fapesp.br/pt/bolsas/209446/monitoramento-da-adesao-ao-tratamento-atraves-de-dispositivo-iot/)*
+Atuei por 8 anos em manutenção predial, desenvolvendo conhecimentos sólidos em elétrica e formação técnica em **Mecatrônica**. Após esse período, realizei minha transição para a área de tecnologia — um objetivo que sempre quis perseguir. Fui bolsista da FAPESP, atuando em uma startup focada *[Monitoramento da Adesão ao Tratamento através de Dispositivo IoT](https://bv.fapesp.br/pt/bolsas/209446/monitoramento-da-adesao-ao-tratamento-atraves-de-dispositivo-iot/)*, onde pude aprofundar minha experiência em soluções tecnológicas aplicadas ao cotidiano.
+
+
 
 ## 🧠 Tech Stack Principal
 ### Frontend
@@ -44,13 +46,8 @@ API completa utilizando NestJS, TypeORM e MySQL — foco em arquitetura organiza
 
 ➡️ Repositório: `nest-typeorm-mysql-api`
 
-### Finance App (Estudo de aplicação CLI)
-Aplicação para gestão financeira simples e rápida.
-
-➡️ Repositório: `finance-app`
-
 ### Orders — Sistema de Pedidos (Criado a partir de um problema enfrentado)
-Aplicação local para gerenciamento de pedidos de cozinha.
+Aplicação local para gerenciamento de pedidos de cozinha. Onde a infraestrutura física (instalações elétricas) impossibilita a comunicação entre caixa e cozinha.
 
 ➡️ Repositório: `orders`
 
@@ -58,6 +55,10 @@ Aplicação local para gerenciamento de pedidos de cozinha.
 Explorando criação de apps desktop com Electron.
 ➡️ Repositório: `electron-tutorial`
 
+### Finance App (Estudo de aplicação CLI)
+Aplicação para gestão financeira simples e rápida.
+
+➡️ Repositório: `finance-app`
 ---
 
 ## 📈 O que estou estudando no momento
