@@ -71,3 +71,6 @@ Explorando criação de apps desktop com Electron.
 Busco oportunidades como **Desenvolvedor Full Stack**, onde eu possa contribuir com os meus conhecimentos — sempre com foco no cliente. Busco qualidade de código e evolução constante em diversas tecnologias.
 
 ---
+
+[![Leonardo's github streak](https://streak-stats.demolab.com/?user=leonardomperes&theme=dark)](https://git.io/streak-stats)
+
