@@ -7,7 +7,7 @@ Atuo principalmente com **TypeScript**, **Node.js**, **React**, **React Native**
 
 ---
 ## 👨‍🎓 Curiosidades
-Atuei durante 8 anos em manutenção predial tendo conhecimentos em elétrica e formação técnica em **Mecatrônica**. Fiz transição de carreira para área da tecnologia na qual sempre quis me desenvolver. Participei de uma bolsa pela FAPESP *[Monitoramento da Adesão ao Tratamento através de Dispositivo IoT](https://bv.fapesp.br/pt/bolsas/209446/monitoramento-da-adesao-ao-tratamento-atraves-de-dispositivo-iot/)*
+Atuei durante 8 anos em manutenção predial tendo conhecimentos em elétrica e formação técnica em **Mecatrônica**. Fiz transição de carreira para área da tecnologia na qual sempre quis me desenvolver. Fui bolsista pela FAPESP atuando em uma startup de *[Monitoramento da Adesão ao Tratamento através de Dispositivo IoT](https://bv.fapesp.br/pt/bolsas/209446/monitoramento-da-adesao-ao-tratamento-atraves-de-dispositivo-iot/)*
 
 ## 🧠 Tech Stack Principal
 ### Frontend
