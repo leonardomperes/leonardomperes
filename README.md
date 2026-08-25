@@ -36,7 +36,6 @@ Atuei por 8 anos em manutenção predial, desenvolvendo conhecimentos sólidos e
 - Git & GitHub
 - Deploy em serviços cloud
 - CI/CD básico
-- Electron (projetos experimentais)
 ---
 
 ## 📂 Projetos em Destaque
@@ -72,6 +71,3 @@ Aplicação para gestão financeira simples e rápida.
 Busco oportunidades como **Desenvolvedor Full Stack**, onde eu possa contribuir com os meus conhecimentos — sempre com foco no cliente. Busco qualidade de código e evolução constante em diversas tecnologias.
 
 ---
-
-![Leonardo's github streak](https://streak-stats.demolab.com/?user=leonardomperes&theme=dark)
-
