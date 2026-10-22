@@ -1,73 +1,27 @@
-## 😁 Sobre mim
-Sou **Engenheiro da Computação** e **Desenvolvedor Full Stack**, apaixonado por criar soluções eficientes, escaláveis e bem estruturadas.
+Sou **Engenheiro da Computação** e **Desenvolvedor de Software**, apaixonado por criar soluções eficientes, escaláveis e bem estruturadas.
 
-Atuo principalmente com **TypeScript**, **Node.js**, **React**, **React Native**, **Nextjs**, **NestJS**, **Firebase** e **MySQL**, sempre buscando boas práticas, arquitetura limpa e evolução contínua.
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
 
 
-
----
 ## 👨‍🎓 Curiosidades
-Atuei por 8 anos em manutenção predial, desenvolvendo conhecimentos sólidos em elétrica e formação técnica em **Mecatrônica**. Após esse período, realizei minha transição para a área de tecnologia — um objetivo que sempre quis perseguir. Fui bolsista da FAPESP, atuando em uma startup focada *[Monitoramento da Adesão ao Tratamento através de Dispositivo IoT](https://bv.fapesp.br/pt/bolsas/209446/monitoramento-da-adesao-ao-tratamento-atraves-de-dispositivo-iot/)*, onde pude aprofundar minha experiência em soluções tecnológicas aplicadas ao cotidiano.
 
-
-
-## 🧠 Tech Stack Principal
-### Frontend
-- Reactjs
-- React Native
-- Nextjs
-- HTML5 / CSS3
-- Componentização, Hooks, Context API
-- Integração com APIs REST
-
-### Backend
-- Node.js
-- TypeScript
-- NestJS
-- TypeORM
-- Autenticação JWT
-- Arquitetura MVC / Clean Architecture
-
-### Banco de Dados
-- MySQL (SQL)
-- Firebase (Realtime Database & Firestore) (NoSQL)
-
-### Ferramentas & DevOps
-- Git & GitHub
-- Deploy em serviços cloud
-- CI/CD básico
----
-
-## 📂 Projetos em Destaque
-
-### NestJS + TypeORM + MySQL API
-API completa utilizando NestJS, TypeORM e MySQL — foco em arquitetura organizada e escalável.
-
-➡️ Repositório: `nest-typeorm-mysql-api`
-
-### Orders — Sistema de Pedidos (Criado a partir de um problema enfrentado)
-Aplicação local para gerenciamento de pedidos de cozinha. Onde a infraestrutura física (instalações elétricas) impossibilita a comunicação entre caixa e cozinha.
-
-➡️ Repositório: `orders`
-
-### Electron Tutorial (Estudo para apps desktop)
-Explorando criação de apps desktop com Electron.
-➡️ Repositório: `electron-tutorial`
-
-### Finance App (Estudo de aplicação CLI)
-Aplicação para gestão financeira simples e rápida.
-
-➡️ Repositório: `finance-app`
----
+Atuei por 8 anos no ramo de manutenção elétrica, desenvolvendo conhecimentos sólidos em elétrica e formação técnica em **Mecatrônica**. Realizei transição de carreira para a área de tecnologia, nessa nova jornada fui bolsista pela FAPESP, atuando em uma startup focada *[Monitoramento da Adesão ao Tratamento através de Dispositivo IoT](https://bv.fapesp.br/pt/bolsas/209446/monitoramento-da-adesao-ao-tratamento-atraves-de-dispositivo-iot/)*.
 
 ## 📈 O que estou estudando no momento
-- Framework **Nextjs**
-- Linguagem **Golang** (Go)
+
+- **Cloud Computing**
 - **Arquitetura de Software** (Livro: Arquitetura Limpa Robert C. Martin)
 - **Comunicação de Dados e Redes de Computadores** (Livro: Behrouz A. Forouzan 4º ed.)
----
-
-## 🎯 O que procuro
-Busco oportunidades como **Desenvolvedor Full Stack**, onde eu possa contribuir com os meus conhecimentos — sempre com foco no cliente. Busco qualidade de código e evolução constante em diversas tecnologias.
-
----
