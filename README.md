@@ -25,3 +25,17 @@ Atuei por 8 anos no ramo de manutenção elétrica, desenvolvendo conhecimentos 
 - **Cloud Computing**
 - **Arquitetura de Software** (Livro: Arquitetura Limpa Robert C. Martin)
 - **Comunicação de Dados e Redes de Computadores** (Livro: Behrouz A. Forouzan 4º ed.)
+
+
+
+<div align="center">
+
+<img width="100%" src="https://streak-stats.demolab.com?user=leonardomperes&theme=" />
+
+</div>
+
+<div align="center">
+
+<!-- <img width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=leonardomperes&theme=" /> -->
+
+</div>
