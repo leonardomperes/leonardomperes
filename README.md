@@ -1,6 +1,10 @@
-Sou **Engenheiro da Computação** e **Desenvolvedor de Software**, apaixonado por criar soluções eficientes, escaláveis e bem estruturadas.
-
+<div align="center">
 <p align="center">
+  
+## 👋 Apresentação
+
+**Engenheiro da Computação** e **Desenvolvedor de Software**, apaixonado por criar soluções eficientes, escaláveis e bem estruturadas.
+
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
@@ -16,19 +20,23 @@ Sou **Engenheiro da Computação** e **Desenvolvedor de Software**, apaixonado p
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
 
 
-## 👨‍🎓 Curiosidades
+## 👨‍🎓 Trajetória
 
-Atuei por 8 anos no ramo de manutenção elétrica, desenvolvendo conhecimentos sólidos em elétrica e formação técnica em **Mecatrônica**. Realizei transição de carreira para a área de tecnologia, nessa nova jornada fui bolsista pela FAPESP, atuando em uma startup focada *[Monitoramento da Adesão ao Tratamento através de Dispositivo IoT](https://bv.fapesp.br/pt/bolsas/209446/monitoramento-da-adesao-ao-tratamento-atraves-de-dispositivo-iot/)*.
+Por 8 anos atuei no ramo de manutenção elétrica, desenvolvendo conhecimentos sólidos em elétrica e formação técnica em **Mecatrônica**. 
 
-## 📈 O que estou estudando no momento
+Realizei transição de carreira para a área de tecnologia, nessa nova jornada fui bolsista pela FAPESP, atuando no projeto de *[Monitoramento da Adesão ao Tratamento através de Dispositivo IoT](https://bv.fapesp.br/pt/bolsas/209446/monitoramento-da-adesao-ao-tratamento-atraves-de-dispositivo-iot/)*.
+
+Desde então atuo como Desenvolvedor de Software a mais de 4 anos, com experiência prática em Frontend, Backend, DevOps, Cloud (Azure), Linux e diversas ferramentas do mercado de desenvolvimento.
+
+## 📚 O que estou estudando no momento
 
 - **Cloud Computing**
+- **Docker/Kubernets**
 - **Arquitetura de Software** (Livro: Arquitetura Limpa Robert C. Martin)
 - **Comunicação de Dados e Redes de Computadores** (Livro: Behrouz A. Forouzan 4º ed.)
 
 
 
-<div align="center">
 
 <img width="100%" src="https://streak-stats.demolab.com?user=leonardomperes&theme=" />
 
