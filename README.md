@@ -1,7 +1,5 @@
 <div align="center">
 <p align="center">
-  
-## 👋 Apresentação
 
 **Engenheiro da Computação** e **Desenvolvedor de Software**, apaixonado por criar soluções eficientes, escaláveis e bem estruturadas.
 
